@@ -7,7 +7,7 @@ trigger:
 - master
 
 pool:
-  vmImage: COMP367-windows
+  vmImage: DG ASP.net core
 
 variables:
   solution: '**/*.sln'
