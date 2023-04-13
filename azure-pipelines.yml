@@ -7,7 +7,7 @@ trigger:
 - master
 
 pool:
-  vmImage: 'MvcMovie-DG ASP.net core'
+  vmImage: MVc
 
 variables:
   solution: '**/*.sln'
