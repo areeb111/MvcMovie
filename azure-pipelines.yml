@@ -7,7 +7,7 @@ trigger:
 - master
 
 pool:
-  vmImage: 'MVc'
+  vmImage: MVc
 
 variables:
   solution: '**/*.sln'
